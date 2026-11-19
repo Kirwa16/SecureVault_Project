@@ -1,0 +1,4 @@
+node_modules/
+data/vault.json
+data/vault.check
+data/*.tmp
